@@ -4,7 +4,7 @@ from datetime import date
 Host = 'localhost'
 Port = 3305
 User = 'root'
-Password = '00000121515'
+Password = #Aqui va la contraseña de tu xammp
 Database = 'seminario'
 
 try:
