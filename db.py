@@ -2,9 +2,9 @@ import pymysql
 from datetime import date
 
 Host = 'localhost'
-Port = 3305
+Port = #Puerto que utilizas en xampp
 User = 'root'
-Password = #Aqui va la contraseña de tu xammp
+Password = #Aqui va la contraseña de tu xampp
 Database = 'seminario'
 
 try:
