@@ -1,0 +1,21 @@
+formatos = {
+    "Formato de texto": ['.txt', '.md', '.rtf'],
+    "Procesadores de texto": ['.doc', '.docx', '.odt', '.pages'],
+    "Hojas de calculo": ['.xls', '.xlsx', '.csv', '.ods'],
+    "Presentaciones": ['.ppt', '.pptx', '.odp', '.key'],
+    "PDF": ['.pdf'],
+    "Imagenes": ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.tiff', '.webp'],
+    "Graficos": ['.svg', '.eps', '.ai', '.psd'],
+    "Audio": ['.mp3', '.mav', '.aac', '.flac', '.ogg', '.wma'],
+    "Video" : ['.mp4', '.avi', '.mkv', '.mov', '.wmv', '.flv'],
+    "Archivos_comprimidos": ['.zip', '.rar', '.7z', '.tar', '.gz', '.bz2', '.iso'],
+    "Windows": ['.exe', '.bat', '.cmd'],
+    "Linux": ['.sh', '.bin', '.run', '.appimage'],
+    "Scripts": ['.py', '.js', '.php', '.rb', '.pl'],
+    "Base de datos": ['.sql', '.db', '.sqlite', '.mdb', '.accdb'],
+    "Diseño": ['.dwg', '.dxf', '.skp', '.blend'],
+    "Configuracion y sistema": ['.ini', '.cfg', '.conf', '.yaml', '.json', '.xml', '.dll', '.sys'],
+    "Web": ['.html', '.css', '.js', '.php', '.asp', '.jsp', '.htaccess', '.json'],
+    "Especializados": ['.mat', '.hdf5', '.nc'],
+    "Diseño grafico": ['.obj', '.fbx', '.stl']
+}
